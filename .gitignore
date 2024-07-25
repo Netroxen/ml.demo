@@ -1,6 +1,6 @@
 *.h5
-v_data/test/*
-v_data/train/*
+# v_data/test/*
+# v_data/train/*
 bin/
 pyvenv.cfg
 
